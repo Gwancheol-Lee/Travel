@@ -1,0 +1,294 @@
+.main {
+	text-align: center;
+	font-size: 2rem;
+	font-family: fantasy;
+}
+
+.p_font_header {
+	margin-top: 5%;
+	font-size: 1.5rem;
+	text-align: center;
+}
+
+/* .p_font_code {
+	text-align: center;
+}
+ */
+.p_font_header.img {
+	margin-top: 5%;
+	font-size: 1.5rem;
+	text-align: center;
+}
+
+.p_font {
+	margin-top: 40%;
+	font-size: 1.2rem;
+	text-align: center;
+}
+
+/* .p_font.code {
+	margin-top: 3%;
+	font-size: 1.3rem;
+	text-align: center;
+} */
+.p_font_package {
+	margin-left: 10%;
+	margin-top: 5%;
+	font-size: 1 .5rem;
+	text-align: center;
+}
+
+.p_font_pack {
+	font-size: 1.5rem;
+	text-align: center;
+}
+
+.p_font_total {
+	margin-left: 10%;
+	margin-top: 3%;
+	font-weight: 400;
+	font-size: 2rem;
+}
+
+.container .box {
+	margin-left: 38%;
+	margin-bottom: 5%;
+}
+
+.item {
+	border-radius: 20px;
+}
+
+.btn1 {
+	margin-top: 3%;
+	display: inline-block;
+	padding: 15px 25px;
+	font-size: 24px;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	color: #fff;
+	background-color: #2980b9;
+	border: none;
+	border-radius: 15px;
+}
+
+.btn1:hover {
+	background-color: #2980b9
+}
+
+.btn1:active {
+	background-color: #2980b9;
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
+
+.btn2 {
+	margin-top: 3%;
+	margin-left: 5%;
+	display: inline-block;
+	padding: 15px 25px;
+	font-size: 24px;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	color: #fff;
+	background-color: #2980b9;
+	border: none;
+	border-radius: 15px;
+}
+
+.btn2:hover {
+	background-color: #2980b9
+}
+
+.btn2:active {
+	background-color: #2980b9;
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
+/*결제 삭제 버튼*/
+.button.button2 {
+	margin-top: 25%;
+	margin-left: 38%;
+}
+
+.button.button3 {
+	margin-top: 25%;
+	margin-left: 30%;
+}
+
+.button {
+	border: none;
+	color: white;
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 10px;
+	font-size: 16px;
+	margin: 4px 2px;
+	transition-duration: 0.5s;
+	cursor: pointer;
+}
+
+.button2 {
+	background-color: white;
+	color: black;
+	border: 2px solid pink;
+}
+
+.button2:hover {
+	background-color: pink;
+	color: white;
+}
+
+.button3 {
+	background-color: white;
+	color: black;
+	border: 2px solid red;
+}
+
+.button3:hover {
+	background-color: red;
+	color: white;
+}
+
+/*  b_container */
+.b_container {
+	margin-left: 42%;
+}
+
+.select {
+	border: none;
+	color: black;
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 10px;
+	font-size: 16px;
+	margin: 4px 2px;
+	transition-duration: 0.5s;
+	cursor: pointer;
+}
+
+.select:hover {
+	background-color: #2980b9;
+}
+
+.select :active {
+	background-color: #2980b9;
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
+/*  b_container */
+.row.total {
+	height: 7em;
+	margin-top: 5%;
+	margin-bottom: 1%;
+	margin-left: 32%;
+	width: 40%;
+	border: 3px solid #C8C8C8;
+	border-radius: 15px;
+	margin-left: 32%;
+}
+
+.col.button4 {
+	margin-left: 43%;
+}
+
+.button4 {
+	margin-left: 14.3%;
+	width: 8em;
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	transition-duration: 0.5s;
+	cursor: pointer;
+	background-color: white;
+	border: 4px solid #2980b9;
+	border-radius: 10px;
+	color: black;
+	font-size: 1.5em
+}
+
+.button4:hover {
+	background-color: #2980b9;
+	color: white;
+}
+
+.c_box {
+	width: 3%;
+	position: relative;
+	cursor: pointer;
+	font-size: 22px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	position: relative;
+	position: relative;
+}
+
+/* Hide the browser's default checkbox */
+.c_box input {
+	position: absolute;
+	opacity: 0;
+	cursor: pointer;
+	height: 0;
+	width: 0;
+	color: black;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+	margin-top: 5em;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 25px;
+	width: 25px;
+	background-color:;
+	position: absolute;
+}
+
+/* On mouse-over, add a grey background color */
+.c_box:hover input ~ .checkmark {
+	background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.c_box input:checked ~ .checkmark {
+	background-color: #2980b9;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+	content: "";
+	position: absolute;
+	display: none;
+}
+
+/* Show the checkmark when checked */
+.c_box input:checked ~ .checkmark:after {
+	display: block;
+}
+
+/* Style the checkmark/indicator */
+.c_box .checkmark:after {
+	left: 9px;
+	top: 5px;
+	width: 5px;
+	height: 10px;
+	border: solid white;
+	border-width: 0 3px 3px 0;
+	-webkit-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+/*  checkbox style*/

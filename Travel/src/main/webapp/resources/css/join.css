@@ -1,0 +1,146 @@
+@charset "utf-8";
+
+.input-group-text {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	padding: .375rem .75rem;
+	margin-bottom: 0;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #495057;
+	text-align: center;
+	white-space: nowrap;
+	background-color: #e9ecef;
+	border: 1px solid #ced4da;
+	border-radius: .25rem;
+	width: 40px;
+}
+
+.input-group-text2 {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	padding: .375rem .75rem;
+	margin-bottom: 0;
+	font-size: 1rem;
+	font-weight: 400;
+	color: #969696;
+	line-height: 1.5;
+	text-align: center;
+	white-space: nowrap;
+	background-color: #ffffff;
+	border: 1px solid #ffffff;
+	border-radius: .25rem;
+	width: 40px;
+}
+
+.btn3 {
+    padding: 7px 20px;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    font-weight: 400;
+}
+.btn3-primary {
+   	color: #495057;
+    background-color: #e9ecef;
+    background-image: none;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+}
+.custom-select1{
+    max-width: 29%;
+}
+.custom-select2{
+	max-width: 8.1rem;
+}
+.custom-select3{
+	min-width: 24%;
+}
+
+#span_f {
+	font-size: 5px;
+	color: red;
+}
+
+#span_t {
+	font-size: 5px;
+	color: green;
+}
+em{
+	font-style: italic;
+	font-size: 5px;
+	text-align: left;
+}
+.regex_align div {
+	float: left;
+}
+
+.member_name.regex {
+	margin-left: 2.6em;
+	height: 1em;
+	line-height: 0;
+	text-align: left;
+	letter-spacing: 2px;
+}
+
+.member_id.regex {
+	margin-left: 2.6em;
+	height: 1em;
+	line-height: 0;
+	text-align: left;
+	letter-spacing: 2px;
+}
+
+.member_email.regex {
+	margin-left: 2.6em;
+	height: 1em;
+	line-height: 0;
+	text-align: left;
+	letter-spacing: 2px;
+}
+
+.member_address.regex {
+	margin-left: 2.9em;
+	height: 1em;
+	line-height: 0;
+	text-align: left;
+	letter-spacing: 2px;
+}
+
+.member_phone.regex {
+	margin-left: 2.6em;
+	height: 1em;
+	line-height: 0;
+	text-align: left;
+	letter-spacing: 2px;
+}
+
+.member_birthday.regex {
+	margin-left: 2.6em;
+	height: 1em;
+	line-height: 0;
+	text-align: left;
+	letter-spacing: 2px;
+}
+
+.member_pwd.regex {
+	margin-left: 2.6em;
+	height: 1em;
+	line-height: 0;
+	text-align: left;
+	letter-spacing: 2px;
+}
+
+.repassword.regex {
+	margin-left: 2.6em;
+	height: 1em;
+	line-height: 0;
+	text-align: left;
+	letter-spacing: 2px;
+}

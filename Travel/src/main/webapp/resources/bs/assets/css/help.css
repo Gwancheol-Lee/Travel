@@ -1,0 +1,72 @@
+#h3, #h5, #h6 {
+	text-align: center;
+	color: white;
+}
+
+#h4 {
+	font-weight: bold;
+	font-size: 20px;
+	letter-spacing: 5px;
+}
+
+#h5 {
+	margin-top: 2em;
+}
+
+#h6 {
+	font-size: 16px;
+}
+
+#Qanswer1 {
+	display: none;
+	background-color: #FDF9F9;
+	font-style: normal;
+	font-size: 1.5rem;
+}
+
+#Qanswer2 {
+	display: none;
+	background-color: #FDF9F9;
+	font-style: normal;
+	font-size: 1.5rem;
+}
+
+#Qanswer3 {
+	display: none;
+	background-color: #FDF9F9;
+	font-style: normal;
+	font-size: 1.5rem;
+}
+
+#Qanswer4 {
+	display: none;
+	background-color: #FDF9F9;
+	font-style: normal;
+	font-size: 1.5rem;
+}
+
+#Qanswer5 {
+	display: none;
+	background-color: #FDF9F9;
+	font-style: normal;
+	font-size: 1.5rem;
+}
+
+#Qanswer6 {
+	display: none;
+	background-color: #FDF9F9;
+	font-style: normal;
+	font-size: 1.5rem;
+}
+#Qanswer7 {
+	display: none;
+	background-color: #FDF9F9;
+	font-style: normal;
+	font-size: 1.5rem;
+}
+#Qanswer8 {
+	display: none;
+	background-color: #FDF9F9;
+	font-style: normal;
+	font-size: 1.5rem;
+}

@@ -1,0 +1,14 @@
+.product { 
+	padding : 1em 1em 1em 1em;
+}
+.product img{
+	max-width: 20%;
+	max-height: 20%;
+}
+#fa-pay {
+	padding-left: 0.3em;
+}
+
+.custom-select1{
+	padding-left: 0.2em;
+}

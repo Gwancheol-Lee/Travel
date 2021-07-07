@@ -1,0 +1,142 @@
+@charset "UTF-8";
+
+.board {
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+.board img {
+	width: auto;
+}
+
+.board h1 {
+	display: inline-block;
+}
+
+.board #board {
+	padding-bottom: 20px;
+}
+
+#mainWrapper, .boardList {
+	width: 56em;
+}
+
+#mainWrapper {
+	margin: 0 auto; /* 가운데 정렬 */
+}
+
+.search {
+	padding-bottom: 10px;
+}
+
+.boardList {
+	border: 1px solid #ccc;
+	margin: 0 auto;
+}
+
+.boardList th {
+	background-color: #ccc;
+	font-size: 18px;
+	color: #3B3A3A;
+	font-weight: bold;
+}
+
+.boardList tr {
+	border-bottom: 1px solid #ccc;
+	line-height: 40px;
+}
+
+.boardList td {
+	font-size: 16px;
+	color: #3B3A3A;
+}
+
+.boardList th, td {
+	list-style: none;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	height: 40px;
+	line-height: 40px;
+	border-bottom: 1px solid #ccc;
+}
+
+#board_title {
+	color: 3b3a3a;
+}
+
+.boardList a {
+	color: #3b3a3a;
+}
+
+.boardList a:hover {
+	color: #0984E3;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.tno {
+	width: 100px;
+}
+
+.ttitle {
+	width: 550px;
+	letter-spacing: 0.7em;
+}
+
+.twriter {
+	width: 150px;
+}
+
+.tdate {
+	width: 100px;
+}
+
+.tread {
+	width: 100px;
+}
+
+#write {
+	margin-top: 10px;
+	margin-right: 10px;
+	text-align: right;
+}
+
+#boardWrite {
+	padding: 6px 9px 6px;
+	background-color: #c0c0c0;
+	color: 212529;
+}
+
+#page_control {
+	text-align: center;
+	margin: 20px 0 0 0;
+}
+
+#page_control a {
+	color: #3B3A3A;
+	margin-right: 5px;
+	margin-left: 5px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.boardSearch {
+	margin-top: 30px;
+}
+
+.search {
+	clear: both;
+}
+
+.search div {
+	margin: 0 auto;
+	margin-top: 30px;
+	width: auto;
+	height: 100px;
+}
+
+.left {
+	text-align: left;
+}

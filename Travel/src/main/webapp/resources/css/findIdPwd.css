@@ -1,0 +1,112 @@
+@charset "utf-8";
+
+.icon-pointingButton{
+	text-align: center;
+	width: 100%;
+    margin: auto;
+}
+
+.far{
+	text-align: center;
+	width: 100%;
+    margin: auto;
+}
+
+.card p{
+	margin-bottom: 0;
+}
+
+.form-signin{
+	margin-top: 15px;
+}
+.from-label-group1{
+	margin-bottom: 5px;
+}
+.from-label-group2{
+	margin-top: 5px;
+}
+.input-group-text {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	padding: .375rem .75rem;
+	margin-bottom: 0;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #495057;
+	text-align: center;
+	white-space: nowrap;
+	background-color: #e9ecef;
+	border: 1px solid #ced4da;
+	border-radius: .25rem;
+	width: 40px;
+}
+
+.input-group-text2 {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	padding: .375rem .75rem;
+	margin-bottom: 0;
+	font-size: 1rem;
+	font-weight: 400;
+	color: #969696;
+	line-height: 1.5;
+	text-align: center;
+	white-space: nowrap;
+	background-color: #ffffff;
+	border: 1px solid #ffffff;
+	border-radius: .25rem;
+	width: 40px;
+}
+.btn2 {
+    padding: 10px 20px;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    font-weight: 400;
+}
+.btn2-primary {
+   	color: #495057;
+    background-color: #e9ecef;
+    background-image: none;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+}
+#findId{
+	display: none;
+	margin-top: 15px;
+	border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+}
+#findPwd{
+	display: none;
+	margin-top: 15px;
+	border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+}
+.btn2-primary:hover {
+   	color: #ffffff;
+    background-color: #97a5b3;
+    background-image: none;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+}
+.name.regex {
+	margin-left: 2.6em;
+	height: 1em;
+	line-height: 0;
+	text-align: left;
+	letter-spacing: 2px;
+}
+#form_group1{
+	margin-top:1em;
+}
+#form_group2{
+	margin-top:1em;
+}

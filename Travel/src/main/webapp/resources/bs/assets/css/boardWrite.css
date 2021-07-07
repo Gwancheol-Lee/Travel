@@ -1,0 +1,79 @@
+@charset "UTF-8";
+
+
+.board_write{
+	width: 925px;
+	margin: 0px auto;
+}
+
+.board {
+	text-align: center;
+	margin: 110px 30px 50px 30px;
+}
+
+.board_write img{
+	width: auto;
+}
+.board #board{
+	padding-bottom: 20px;
+}
+
+.board h2{
+	display: inline-block;
+}
+
+#pencil{
+	margin-bottom: 13px;
+}
+
+.pencil span{
+	color: #212529;
+	font-weight: 500;
+}
+
+.editor {
+	text-align: center;
+}
+
+.editor #title, #writer {
+	width: 745px;
+	line-height: 25px;
+	margin-left: 10px;
+	margin-right: 10px;	
+}
+
+#smart_editor2_content{
+	margin-left: 10px;
+	margin-top: 17px;
+}
+
+.writer{
+	border-top: 1px solid #c0c0c0;	
+}
+.editor tr{
+	margin-bottom: 3px;
+}
+.editor th{
+	text-align: center;
+	background-color: #dfdfdf;	
+	color: #3b3a3a;
+	padding: 18px 6px 18px;
+	border-bottom: 1px solid #c0c0c0;
+	border-left: 1px solid #c0c0c0;
+	font-weight: bold;
+}
+.editor td{
+	border-bottom: 1px solid #c0c0c0;
+	border-right: 1px solid #c0c0c0;
+}
+.content{
+	vertical-align: middle;
+}
+.write_button{
+	text-align: center;
+}
+.write_button button{
+	background-color: #c0c0c0;
+	padding: 9px 12px 9px;
+	margin-bottom: 30px;
+}
